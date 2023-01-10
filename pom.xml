@@ -67,6 +67,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springjenkinsdocker</finalName>
 	</build>
 
 </project>
