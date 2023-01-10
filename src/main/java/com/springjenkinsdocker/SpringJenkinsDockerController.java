@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/docker")
 public class SpringJenkinsDockerController {
 
 	
